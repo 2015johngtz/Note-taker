@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-See Note Taker in action: [Live Demo](...)
+See Note Taker in action: [Live Demo](https://drive.google.com/file/d/1M4dly2Sj9MMsWq0BJbfNDIgjg4M_YNCV/view)
 
 ## Description
 
